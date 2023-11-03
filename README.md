@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithShivam45 from Mumbai and 17 years old. I love to Coding,
 - 👀 I’m interested in Programming , Coding.
-- 🌱 I’m currently learning Information Technology.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
